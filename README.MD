@@ -19,7 +19,7 @@ By prajwal zingare
 
 ---
 
-![myproject](./Screenshot%20(23).png)
+![myproject](./assets/Screenshot%20(23).png)
 
 ---
 ## What I learned from this Project
