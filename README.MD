@@ -1,4 +1,4 @@
-# Project 02 | HTML and CSS
+# Project 02 | HTML and CSS | Food Restaurant
 
 By prajwal zingare
 
